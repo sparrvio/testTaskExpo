@@ -25,7 +25,6 @@ public class TestKeys {
                 i--;
                 System.out.println("Некорректный ввод");
                 scanner.next();
-                continue;
             }
         }
 
