@@ -2,11 +2,11 @@ package testTaskExpa;
 
 import java.util.List;
 
-public class EqualsWeight {
+public class TotalWeightForHare {
     private List<Integer> list;
     private int totalWeight;
 
-    public EqualsWeight(List<Integer> list, int totalWeight) {
+    public TotalWeightForHare(List<Integer> list, int totalWeight) {
         this.list = list;
         this.totalWeight = totalWeight;
     }

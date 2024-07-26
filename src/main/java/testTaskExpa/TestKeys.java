@@ -29,7 +29,7 @@ public class TestKeys {
             }
         }
 
-        EqualsWeight weight = new EqualsWeight(list, totalWeight);
+        TotalWeightForHare weight = new TotalWeightForHare(list, totalWeight);
         weight.maxCarrots();
     }
 }
